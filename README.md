@@ -4,18 +4,22 @@
 
 <p align="center"><b>A lightweight event registration experience connected to Google Sheets through a serverless API.</b></p>
 
+<p align="center">
+  <a href="https://camy-event-comformation.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN_SITE-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open CAMY Event live site" /></a>
+</p>
+
 ---
 
 ## Project Snapshot
 
 | | |
 |---|---|
-| **Problem** | Event registration needs to be simple for guests and easy to manage for organizers. |
+| **Business problem** | Event registration needs to be simple for guests and easy to manage for organizers. |
 | **Solution** | A responsive registration page with validation, confirmation and Google Sheets storage. |
 | **Backend style** | Vercel serverless function + Google Apps Script. |
 | **Focus** | Simple user flow, reliable submission and duplicate protection. |
 
-## Event Preview
+## Event Experience
 
 <div align="center">
 <table>
@@ -40,6 +44,14 @@
 ## Registration Flow
 
 `Open event page` → `Enter details` → `Validate` → `Serverless API` → `Google Sheets` → `Confirmation`
+
+## What This Project Demonstrates
+
+- Designing a short, low-friction user journey
+- Connecting a simple front end to a lightweight serverless backend
+- Turning form submissions into structured operational data
+- Adding duplicate protection, validation and confirmation logic
+- Choosing a practical stack for a small real-world event workflow
 
 ## Tech Stack
 
